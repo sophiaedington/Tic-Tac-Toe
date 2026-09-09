@@ -1,5 +1,4 @@
 public class Player {
-    // Variables
     private String name;
     private char symbol;
 
@@ -8,7 +7,6 @@ public class Player {
         this.symbol = symbol;
     }
 
-    // Getters
     public String getName() {
         return name;
     }
